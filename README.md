@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an assignment tracker originally designed for personal use, but I wanted to make it publically available as well!
+This is an assignment tracker originally designed for personal use, but I wanted to make it publicly available as well!
 
 ---
 
