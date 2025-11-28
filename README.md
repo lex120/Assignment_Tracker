@@ -39,7 +39,7 @@ This is an assignment tracker originally designed for personal use, but I wanted
 
 ## Features
 
-- Add, edit, delete assignments
+- Add, edit, and delete assignments
 - Up to 7 classes supported
 - Theme selection
 - Days until due auto-calculation
@@ -48,7 +48,7 @@ This is an assignment tracker originally designed for personal use, but I wanted
 
 ---
 
-## 🧠 Core Classes
+## Core Classes
 
 ### `Cls`
 
@@ -89,7 +89,7 @@ This is an assignment tracker originally designed for personal use, but I wanted
 
 ---
 
-## 🖥️ User Interface
+## User Interface
 
 ### Main Window
 
@@ -126,7 +126,7 @@ Fields included:
 
 ---
 
-## 💾 Data Format
+## Data Format
 
 ### Assignment CSV Format
 
@@ -148,7 +148,7 @@ Not Started, "Essay 1", "02/14/2025", "11:59 PM", "Writing", 3, "Intro draft"
 
 ---
 
-## 🧪 Known Issues / Future Improvements
+## Known Issues / Future Improvements
 
 - Currently no way to sort assignments
 - Date validation is limited
@@ -171,7 +171,7 @@ python AssignmentTracker.py
 
 ---
 
-## 🙋 Troubleshooting
+## Troubleshooting
 
 | Issue | Cause | Fix |
 |------|-------|-----|
@@ -188,7 +188,7 @@ MIT
 
 ---
 
-## ✍️ Author
+## Author
 
 - Alexa Berman
 - Github: @lex120
