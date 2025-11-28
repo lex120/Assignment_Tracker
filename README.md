@@ -10,8 +10,7 @@ This is an assignment tracker originally designed for personal use, but I wanted
 
 - Python version:  3.13.7
 - GUI framework: Tkinter  
-- Data storage: CSV files  
-- Packaging method: PyInstaller
+- Data storage: CSV files
 
 ---
 
@@ -39,7 +38,7 @@ This is an assignment tracker originally designed for personal use, but I wanted
 
 ## Features
 
-- Add, edit, and delete assignments
+- Add, edit, delete assignments
 - Up to 7 classes supported
 - Theme selection
 - Days until due auto-calculation
@@ -97,7 +96,7 @@ This is an assignment tracker originally designed for personal use, but I wanted
 - Table: displays assignments
 - Buttons:
   - Add Assignment
-  - Must have class selected to use:
+  - Must have a class selected to use:
     - Edit Assignment
     - Delete Assignment
   - Settings
@@ -116,7 +115,7 @@ Fields included:
 
 #### Edit Assignment
 
-- Fields pre-filled from selected row. Fields included:
+- Fields pre-filled from the selected row. Fields included:
 - status
 - name
 - date
@@ -155,7 +154,7 @@ Not Started, "Essay 1", "02/14/2025", "11:59 PM", "Writing", 3, "Intro draft"
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### From source
 
@@ -165,7 +164,7 @@ python AssignmentTracker.py
 
 ### Packaged App Notes
 
-- Include CSV files in same directory
+- Include CSV files in the same directory
 - macOS may require folder permissions
 - First launch may prompt for access
 
@@ -182,9 +181,9 @@ python AssignmentTracker.py
 
 ---
 
-## 📄 License
+## License
 
-MIT
+This project is licensed under the terms of the MIT license.
 
 ---
 
@@ -193,3 +192,7 @@ MIT
 - Alexa Berman
 - Github: @lex120
 - Contact: <aberman120@gmail.com>
+
+## Acknowledgements
+
+Thank you to my friends Charlotte Geaghan, Katelyn Merritt, and Mason Plotner for helping me select colors
